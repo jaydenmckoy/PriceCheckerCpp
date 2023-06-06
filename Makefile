@@ -8,9 +8,9 @@ CXXFLAGS = -std=c++11 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = myapp
+APPNAME = PriceCheckerCpp
 EXT = .cpp
-SRCDIR = src
+SRCDIR = /home/peterb/git/PriceCheckerCpp/src
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
